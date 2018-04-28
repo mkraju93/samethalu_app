@@ -1,0 +1,2 @@
+class Sametha < ApplicationRecord
+end

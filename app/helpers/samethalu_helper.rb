@@ -1,0 +1,2 @@
+module SamethaluHelper
+end
